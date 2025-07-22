@@ -8,4 +8,8 @@ This model predicts and classifies the health and wellbeing of a fetus during pr
 
 Dataset Link: https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification
 
+Deployed Site Link:
+https://www.brodieberger.com/fetal_health/
+
 Most information can be found in the jupyter notebook file.
+https://www.brodieberger.com/fetal_health/notebook
